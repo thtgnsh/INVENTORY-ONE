@@ -1,1 +1,4 @@
 # INVENTORY-ONE
+This is inventory application
+
+This is asample application for understanding git and python
