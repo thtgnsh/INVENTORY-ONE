@@ -4,6 +4,8 @@ to run the inventory application
 This module will have method to display commandline options and menus
 """
 
+def appliction_version():
+    return "v1.0"
     
 if __name__ == "__main__":
     pass
