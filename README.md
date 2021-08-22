@@ -5,7 +5,7 @@ This is asample application for understanding git and python
 
 main.py added
 
-authors:
+authors and developers:
 ganesh
 vasanth
 sai
