@@ -12,4 +12,5 @@ def menu():
     pass
     
 if __name__ == "__main__":
-    pass
+    print("welcom to inventory")
+    
